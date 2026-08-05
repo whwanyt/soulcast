@@ -1,0 +1,9 @@
+// 世界书实体的公开入口。
+export 'helper/world_book_codec.dart';
+export 'helper/world_book_mapper.dart';
+export 'model/world_book.dart';
+export 'provider/isar_provider.dart';
+export 'provider/world_book_repository_provider.dart';
+export 'repository/world_book_repository.dart';
+export 'world_book_entity.dart';
+export 'world_book_entry_entity.dart';

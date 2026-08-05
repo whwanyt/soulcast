@@ -1,0 +1,13 @@
+icons_launcher:
+  # image_path 仅用于满足 icons_launcher 校验；生成后会删除 legacy / Play Store 图
+  image_path: "assets/app_icon.png"
+  platforms:
+    android:
+      enable: true
+      image_path: "assets/app_icon.png"
+      adaptive_background_color: "#000000"
+      adaptive_foreground_image: "assets/app_icon_foreground.png"
+      adaptive_monochrome_image: "assets/app_icon_monochrome.png"
+    ios:
+      enable: true
+      image_path: "assets/app_icon.png"

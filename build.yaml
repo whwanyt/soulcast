@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      # i18n 使用 `fvm dart run slang` 单独生成，避免与已有 strings*.g.dart 冲突。
+      slang_build_runner:
+        enabled: false
