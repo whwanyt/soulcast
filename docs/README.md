@@ -8,7 +8,7 @@
 - [FSD Architecture](architecture.md)：项目分层、依赖方向、目录落位、Riverpod 和 UI 约束。
 - [消息收发与展示全流程](chat_message_flow.md)：发送编排、工具循环、parts 时间线、持久化与 UI 展示。
 - [Agent Guide](../AGENTS.md)：面向自动化编码 agent 和协作开发者的工作规则。
-- [Project README](../README.md)：项目概览、常用命令、提交规范。
+- [Project README](../README.md)：开源项目介绍、特性、快速开始与贡献说明。
 
 ## Maintenance Rules
 
